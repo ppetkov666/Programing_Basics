@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.0\03. Greeting by Name.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.0\03. Greeting by Name.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.0\03. Greeting by Name.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.0\03. Greeting by Name.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\bin\Debug\netcoreapp2.0\03. Greeting by Name.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.0\03. Greeting by Name.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.0\03. Greeting by Name.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.0\03. Greeting by Name.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.0\03. Greeting by Name.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\03. Greeting by Name\obj\Debug\netcoreapp2.0\03. Greeting by Name.pdb

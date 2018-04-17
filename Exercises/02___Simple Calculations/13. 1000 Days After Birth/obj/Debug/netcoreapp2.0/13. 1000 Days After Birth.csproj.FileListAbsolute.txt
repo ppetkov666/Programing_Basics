@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.pdb

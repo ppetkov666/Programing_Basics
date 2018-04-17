@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.pdb

@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\02___Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.pdb
