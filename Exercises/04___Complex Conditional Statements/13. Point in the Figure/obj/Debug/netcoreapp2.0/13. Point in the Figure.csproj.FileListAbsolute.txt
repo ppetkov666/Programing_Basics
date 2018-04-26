@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\bin\Debug\netcoreapp2.0\13. Point in the Figure.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\bin\Debug\netcoreapp2.0\13. Point in the Figure.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\bin\Debug\netcoreapp2.0\13. Point in the Figure.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\bin\Debug\netcoreapp2.0\13. Point in the Figure.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\bin\Debug\netcoreapp2.0\13. Point in the Figure.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\obj\Debug\netcoreapp2.0\13. Point in the Figure.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\obj\Debug\netcoreapp2.0\13. Point in the Figure.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\obj\Debug\netcoreapp2.0\13. Point in the Figure.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\obj\Debug\netcoreapp2.0\13. Point in the Figure.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\13. Point in the Figure\obj\Debug\netcoreapp2.0\13. Point in the Figure.pdb

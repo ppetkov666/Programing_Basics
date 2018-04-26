@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\bin\Debug\netcoreapp2.0\16.Number 0_100 to Text.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\bin\Debug\netcoreapp2.0\16.Number 0_100 to Text.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\bin\Debug\netcoreapp2.0\16.Number 0_100 to Text.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\bin\Debug\netcoreapp2.0\16.Number 0_100 to Text.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\bin\Debug\netcoreapp2.0\16.Number 0_100 to Text.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\03___Simple Conditional Statements\16.Number 0_100 to Text\obj\Debug\netcoreapp2.0\16.Number 0_100 to Text.pdb

@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\bin\Debug\netcoreapp2.0\12. Equal Pairs.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\bin\Debug\netcoreapp2.0\12. Equal Pairs.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\bin\Debug\netcoreapp2.0\12. Equal Pairs.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\bin\Debug\netcoreapp2.0\12. Equal Pairs.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\bin\Debug\netcoreapp2.0\12. Equal Pairs.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\12. Equal Pairs\obj\Debug\netcoreapp2.0\12. Equal Pairs.pdb

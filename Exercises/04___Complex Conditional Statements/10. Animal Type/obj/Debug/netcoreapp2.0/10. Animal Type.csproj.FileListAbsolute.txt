@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.pdb

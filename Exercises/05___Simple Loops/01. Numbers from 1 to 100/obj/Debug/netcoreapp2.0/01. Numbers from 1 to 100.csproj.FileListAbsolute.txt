@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\bin\Debug\netcoreapp2.0\01. Numbers from 1 to 100.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\bin\Debug\netcoreapp2.0\01. Numbers from 1 to 100.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\bin\Debug\netcoreapp2.0\01. Numbers from 1 to 100.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\bin\Debug\netcoreapp2.0\01. Numbers from 1 to 100.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\bin\Debug\netcoreapp2.0\01. Numbers from 1 to 100.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\05___Simple Loops\01. Numbers from 1 to 100\obj\Debug\netcoreapp2.0\01. Numbers from 1 to 100.pdb

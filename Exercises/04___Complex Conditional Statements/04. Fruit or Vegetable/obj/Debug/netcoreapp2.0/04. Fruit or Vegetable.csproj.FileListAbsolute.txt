@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\netcoreapp2.0\04. Fruit or Vegetable.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\netcoreapp2.0\04. Fruit or Vegetable.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\netcoreapp2.0\04. Fruit or Vegetable.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\netcoreapp2.0\04. Fruit or Vegetable.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\netcoreapp2.0\04. Fruit or Vegetable.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\04___Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\netcoreapp2.0\04. Fruit or Vegetable.pdb

@@ -1,0 +1,11 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\bin\Debug\netcoreapp2.0\01. Personal Titles.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\bin\Debug\netcoreapp2.0\01. Personal Titles.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\bin\Debug\netcoreapp2.0\01. Personal Titles.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\bin\Debug\netcoreapp2.0\01. Personal Titles.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\bin\Debug\netcoreapp2.0\01. Personal Titles.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\04___Complex Conditional Statements\01. Personal Titles\obj\Debug\netcoreapp2.0\01. Personal Titles.pdb
