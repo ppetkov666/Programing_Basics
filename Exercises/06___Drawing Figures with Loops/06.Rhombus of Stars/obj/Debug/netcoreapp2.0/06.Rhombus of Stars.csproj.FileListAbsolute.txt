@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\bin\Debug\netcoreapp2.0\06.Rhombus of Stars.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\bin\Debug\netcoreapp2.0\06.Rhombus of Stars.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\bin\Debug\netcoreapp2.0\06.Rhombus of Stars.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\bin\Debug\netcoreapp2.0\06.Rhombus of Stars.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\bin\Debug\netcoreapp2.0\06.Rhombus of Stars.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\obj\Debug\netcoreapp2.0\06.Rhombus of Stars.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\obj\Debug\netcoreapp2.0\06.Rhombus of Stars.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\obj\Debug\netcoreapp2.0\06.Rhombus of Stars.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\obj\Debug\netcoreapp2.0\06.Rhombus of Stars.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\06.Rhombus of Stars\obj\Debug\netcoreapp2.0\06.Rhombus of Stars.pdb

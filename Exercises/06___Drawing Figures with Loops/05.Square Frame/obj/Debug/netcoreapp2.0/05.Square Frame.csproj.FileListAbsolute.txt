@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\bin\Debug\netcoreapp2.0\05.Square Frame.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\bin\Debug\netcoreapp2.0\05.Square Frame.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\bin\Debug\netcoreapp2.0\05.Square Frame.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\bin\Debug\netcoreapp2.0\05.Square Frame.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\bin\Debug\netcoreapp2.0\05.Square Frame.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\obj\Debug\netcoreapp2.0\05.Square Frame.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\obj\Debug\netcoreapp2.0\05.Square Frame.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\obj\Debug\netcoreapp2.0\05.Square Frame.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\obj\Debug\netcoreapp2.0\05.Square Frame.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\05.Square Frame\obj\Debug\netcoreapp2.0\05.Square Frame.pdb

@@ -1,0 +1,10 @@
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\bin\Debug\netcoreapp2.0\07.Christmas Tree.deps.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\bin\Debug\netcoreapp2.0\07.Christmas Tree.runtimeconfig.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\bin\Debug\netcoreapp2.0\07.Christmas Tree.runtimeconfig.dev.json
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\bin\Debug\netcoreapp2.0\07.Christmas Tree.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\bin\Debug\netcoreapp2.0\07.Christmas Tree.pdb
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\obj\Debug\netcoreapp2.0\07.Christmas Tree.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\obj\Debug\netcoreapp2.0\07.Christmas Tree.AssemblyInfoInputs.cache
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\obj\Debug\netcoreapp2.0\07.Christmas Tree.AssemblyInfo.cs
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\obj\Debug\netcoreapp2.0\07.Christmas Tree.dll
+F:\VS\GITHUB\PROGRAMING_BASICS\1.___EXCERSIZES\06___Drawing Figures with Loops\07.Christmas Tree\obj\Debug\netcoreapp2.0\07.Christmas Tree.pdb
