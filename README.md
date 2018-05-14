@@ -1,2 +1,0 @@
-# Programing_Basics
-Programing_Basics_July_2017
