@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\bin\Debug\netcoreapp2.0\01. TilesRepairing.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\bin\Debug\netcoreapp2.0\01. TilesRepairing.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\bin\Debug\netcoreapp2.0\01. TilesRepairing.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\bin\Debug\netcoreapp2.0\01. TilesRepairing.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\bin\Debug\netcoreapp2.0\01. TilesRepairing.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01. Поправка на плочки\obj\Debug\netcoreapp2.0\01. TilesRepairing.pdb

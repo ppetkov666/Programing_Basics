@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\netcoreapp2.0\06. SpecialNumbers.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\netcoreapp2.0\06. SpecialNumbers.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\netcoreapp2.0\06. SpecialNumbers.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\netcoreapp2.0\06. SpecialNumbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\bin\Debug\netcoreapp2.0\06. SpecialNumbers.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\06. Специални числа\obj\Debug\netcoreapp2.0\06. SpecialNumbers.pdb

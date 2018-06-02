@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\bin\Debug\netcoreapp2.0\01.House Price.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\bin\Debug\netcoreapp2.0\01.House Price.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\bin\Debug\netcoreapp2.0\01.House Price.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\bin\Debug\netcoreapp2.0\01.House Price.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\bin\Debug\netcoreapp2.0\01.House Price.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\01.House Price\obj\Debug\netcoreapp2.0\01.House Price.pdb

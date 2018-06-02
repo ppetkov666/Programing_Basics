@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\bin\Debug\netcoreapp2.0\01. Money.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\bin\Debug\netcoreapp2.0\01. Money.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\bin\Debug\netcoreapp2.0\01. Money.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\bin\Debug\netcoreapp2.0\01. Money.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\bin\Debug\netcoreapp2.0\01. Money.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\04___Programming Basics Exam - 17 July 2016\01. Money\obj\Debug\netcoreapp2.0\01. Money.pdb

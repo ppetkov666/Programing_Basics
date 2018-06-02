@@ -1,0 +1,10 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\bin\Debug\netcoreapp2.0\05. Fox.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\bin\Debug\netcoreapp2.0\05. Fox.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\bin\Debug\netcoreapp2.0\05. Fox.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\bin\Debug\netcoreapp2.0\05. Fox.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\bin\Debug\netcoreapp2.0\05. Fox.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\obj\Debug\netcoreapp2.0\05. Fox.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\obj\Debug\netcoreapp2.0\05. Fox.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\obj\Debug\netcoreapp2.0\05. Fox.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\obj\Debug\netcoreapp2.0\05. Fox.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\05. Fox\obj\Debug\netcoreapp2.0\05. Fox.pdb

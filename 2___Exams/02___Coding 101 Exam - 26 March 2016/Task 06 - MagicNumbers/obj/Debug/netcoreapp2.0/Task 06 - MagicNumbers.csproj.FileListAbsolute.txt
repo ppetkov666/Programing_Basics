@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\bin\Debug\netcoreapp2.0\Task 06 - MagicNumbers.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\bin\Debug\netcoreapp2.0\Task 06 - MagicNumbers.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\bin\Debug\netcoreapp2.0\Task 06 - MagicNumbers.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\bin\Debug\netcoreapp2.0\Task 06 - MagicNumbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\bin\Debug\netcoreapp2.0\Task 06 - MagicNumbers.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 06 - MagicNumbers\obj\Debug\netcoreapp2.0\Task 06 - MagicNumbers.pdb

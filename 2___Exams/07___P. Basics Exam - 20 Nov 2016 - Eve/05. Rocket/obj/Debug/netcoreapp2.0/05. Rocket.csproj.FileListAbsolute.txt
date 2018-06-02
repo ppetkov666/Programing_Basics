@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\bin\Debug\netcoreapp2.0\05. Rocket.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\bin\Debug\netcoreapp2.0\05. Rocket.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\bin\Debug\netcoreapp2.0\05. Rocket.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\bin\Debug\netcoreapp2.0\05. Rocket.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\bin\Debug\netcoreapp2.0\05. Rocket.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\05. Rocket\obj\Debug\netcoreapp2.0\05. Rocket.pdb

@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\netcoreapp2.0\05. Draw Fort.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\netcoreapp2.0\05. Draw Fort.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\netcoreapp2.0\05. Draw Fort.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\netcoreapp2.0\05. Draw Fort.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\bin\Debug\netcoreapp2.0\05. Draw Fort.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\05. Draw Fort\obj\Debug\netcoreapp2.0\05. Draw Fort.pdb

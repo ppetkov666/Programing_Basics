@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\bin\Debug\netcoreapp2.0\01. Fishland.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\bin\Debug\netcoreapp2.0\01. Fishland.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\bin\Debug\netcoreapp2.0\01. Fishland.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\bin\Debug\netcoreapp2.0\01. Fishland.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\bin\Debug\netcoreapp2.0\01. Fishland.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\06___P. Basics Exam - 20 November 2016 - M\01. Fishland\obj\Debug\netcoreapp2.0\01. Fishland.pdb

@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\bin\Debug\netcoreapp2.0\05 - Parallelepiped.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\bin\Debug\netcoreapp2.0\05 - Parallelepiped.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\bin\Debug\netcoreapp2.0\05 - Parallelepiped.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\bin\Debug\netcoreapp2.0\05 - Parallelepiped.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\bin\Debug\netcoreapp2.0\05 - Parallelepiped.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\11___Pr. B. Exam - 19 March 2017 - Eve\05 - Parallelepiped\obj\Debug\netcoreapp2.0\05 - Parallelepiped.pdb

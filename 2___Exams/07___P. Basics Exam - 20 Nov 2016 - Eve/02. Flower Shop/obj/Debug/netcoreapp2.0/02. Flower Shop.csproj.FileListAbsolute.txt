@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\bin\Debug\netcoreapp2.0\02. Flower Shop.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\bin\Debug\netcoreapp2.0\02. Flower Shop.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\bin\Debug\netcoreapp2.0\02. Flower Shop.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\bin\Debug\netcoreapp2.0\02. Flower Shop.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\bin\Debug\netcoreapp2.0\02. Flower Shop.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\07___P. Basics Exam - 20 Nov 2016 - Eve\02. Flower Shop\obj\Debug\netcoreapp2.0\02. Flower Shop.pdb

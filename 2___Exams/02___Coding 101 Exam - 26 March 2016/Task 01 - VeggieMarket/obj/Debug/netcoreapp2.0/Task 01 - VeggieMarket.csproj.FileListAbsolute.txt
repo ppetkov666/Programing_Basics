@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\bin\Debug\netcoreapp2.0\Task 01 - VeggieMarket.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\bin\Debug\netcoreapp2.0\Task 01 - VeggieMarket.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\bin\Debug\netcoreapp2.0\Task 01 - VeggieMarket.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\bin\Debug\netcoreapp2.0\Task 01 - VeggieMarket.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\bin\Debug\netcoreapp2.0\Task 01 - VeggieMarket.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\02___Coding 101 Exam - 26 March 2016\Task 01 - VeggieMarket\obj\Debug\netcoreapp2.0\Task 01 - VeggieMarket.pdb

@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\bin\Debug\netcoreapp2.0\01. Training Lab.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\bin\Debug\netcoreapp2.0\01. Training Lab.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\bin\Debug\netcoreapp2.0\01. Training Lab.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\bin\Debug\netcoreapp2.0\01. Training Lab.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\bin\Debug\netcoreapp2.0\01. Training Lab.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\01___Coding 101 Exam - 6 March 2016\01. Training Lab\obj\Debug\netcoreapp2.0\01. Training Lab.pdb

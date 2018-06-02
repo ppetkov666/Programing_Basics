@@ -1,0 +1,10 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\netcoreapp2.0\Task_06_Numbers.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\netcoreapp2.0\Task_06_Numbers.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\netcoreapp2.0\Task_06_Numbers.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\netcoreapp2.0\Task_06_Numbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\bin\Debug\netcoreapp2.0\Task_06_Numbers.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\netcoreapp2.0\Task_06_Numbers.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\netcoreapp2.0\Task_06_Numbers.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\netcoreapp2.0\Task_06_Numbers.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\netcoreapp2.0\Task_06_Numbers.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\05___Programming Basics Exam - 28 August 2016\Задача 6 - Цифри\obj\Debug\netcoreapp2.0\Task_06_Numbers.pdb

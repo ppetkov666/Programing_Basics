@@ -1,0 +1,11 @@
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\bin\Debug\netcoreapp2.0\01_TilesRepairing.deps.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\bin\Debug\netcoreapp2.0\01_TilesRepairing.runtimeconfig.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\bin\Debug\netcoreapp2.0\01_TilesRepairing.runtimeconfig.dev.json
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\bin\Debug\netcoreapp2.0\01_TilesRepairing.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\bin\Debug\netcoreapp2.0\01_TilesRepairing.pdb
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.AssemblyInfoInputs.cache
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.AssemblyInfo.cs
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.dll
+F:\VS\GITHUB\01___PROGRAMING_BASICS\2.___EXAMS\03___Coding 101 Exam - 24 April 2016\01_TilesRepairing\obj\Debug\netcoreapp2.0\01_TilesRepairing.pdb
